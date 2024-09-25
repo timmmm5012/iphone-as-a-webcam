@@ -6,7 +6,7 @@ Previous instructions are available here:
 
 ## Display full-screen camera feed without any user interface on your iPhone
 
-1. Open [camera.html](https://apancik.github.io/iphone-as-a-webcam/camera.html) on your phone
+1. Open [camera.html](https://timmmm5012.github.io/iphone-as-a-webcam/camera.html) on your phone
 2. Click "Capture Back" for back-facing camera
 3. Click "Full screen" to make the video feed full-screen. Optionally double tap on the video to completely fill the screen
 4. Enable airplane mode on your iPhone to disable push notifications
